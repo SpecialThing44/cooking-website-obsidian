@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "a374f1478b74f780",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ada828336e65498",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "248bb018954d6b7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data model/Unit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a77ded2bd48f856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data model/Ingredient.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d629f198f40cbc49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "73060a0385435a99",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "991b875674e8863c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13e7d8747797a7e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ede3640f2f5348c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ced3da3948afdb7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4ea569893febd41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cec8064f3ab2894c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d1330b94ec2a9e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8069519cbcf244de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c52464b28774b6f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Architecture/Database.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c117ce697d03528",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Architecture/Database.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22c0e23639015ec9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2acaaf65aaa7055b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Architecture/Database.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d629f198f40cbc49",
+  "lastOpenFiles": [
+    "Data model/Recipe.md",
+    "Data model/Ingredient.md",
+    "Data model/section.md",
+    "Data model/User.md",
+    "Architecture/Database.md",
+    "Data model/instructionIngredient.md",
+    "Data model/Quantity.md",
+    "Architecture/Untitled.canvas",
+    "Architecture",
+    "Data model",
+    "Data model/Unit.md",
+    "Untitled.md",
+    "Data model/instruction.md",
+    "Data model/Country.md",
+    "Data model/Cuisine.md",
+    "recipes.md"
+  ]
+}

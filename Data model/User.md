@@ -1,0 +1,5 @@
+- username
+- email
+- Set of [[Recipe]]
+- description
+- countryOfOrigin
